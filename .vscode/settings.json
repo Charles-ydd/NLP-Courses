@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath":"/home/dyd/anaconda3/envs/vault/bin/python",
+    "jupyter.debugJustMycode": true
+}
